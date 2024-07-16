@@ -1,0 +1,10 @@
+/* 데스크탑 */
+@media only screen and (max-width: 1400px) {
+    .left_text, .right_text  {display: none;}
+    nav p {margin: 0 auto; transform: translateX(0);}
+    .product_list {padding: 0 20px;}
+}
+/* 태블릿 */
+@media only screen and (max-width: 800px) {}
+/* 모바일 */
+@media only screen and (max-width: 600px) {}
